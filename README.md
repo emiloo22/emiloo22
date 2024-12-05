@@ -2,7 +2,7 @@
 - 👩🏼‍💻 Aspiring full stack software developer 
 - 👀 I’m interested in learning more about AI/coding!
 - 🌱 I’m currently learning GitHub Foundations!
-- 💞️ I’m looking to collaborate in the non-profit space.
+- 💞️ I’m looking to collaborate in the non-profit space
 - 📫 How to reach me em.rorke@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I started investing in web3 and disruptive technologies in 2023
