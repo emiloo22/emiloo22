@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate in the non-profit space.
 - 📫 How to reach me em.rorke@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I started investing in web3 and disruptive technologies in 2023 (it is going well)
+- ⚡ Fun fact: I started investing in web3 and disruptive technologies in 2023
 
 <!---
 emiloo22/emiloo22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
